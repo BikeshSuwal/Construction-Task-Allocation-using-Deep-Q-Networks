@@ -1,0 +1,11 @@
+worker_id,years_experience,primary_skill,skill_level,reliability_score,avg_task_completion_rate
+W001,1,Carpentry,4,0.72,1.15
+W002,6,General Labor,2,0.63,0.99
+W003,5,Carpentry,2,0.7,1.08
+W004,14,HVAC,4,0.74,1.09
+W005,2,General Labor,3,0.8,1.15
+W006,9,General Labor,5,0.93,0.86
+W007,13,Plumbing,5,0.65,1.14
+W008,17,HVAC,2,0.84,0.8
+W009,9,Electrical,5,0.61,1.02
+W010,17,Plumbing,5,0.68,0.95

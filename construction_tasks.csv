@@ -1,0 +1,11 @@
+task_id,task_type,required_skill_level,estimated_duration,priority,complexity
+T001,Foundation Work,4,20,1,5
+T002,Framing,2,16,1,3
+T003,Plumbing Installation,1,13,3,1
+T004,Electrical Installation,2,13,1,3
+T005,Foundation Work,5,20,3,4
+T006,Plumbing Installation,4,9,1,4
+T007,Finishing,2,6,1,3
+T008,Finishing,2,4,1,5
+T009,Framing,3,17,2,3
+T010,Foundation Work,2,23,3,3
